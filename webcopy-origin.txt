@@ -1,0 +1,356 @@
+Uri: https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\npm\axios\dist\axios.min.js
+Content Type: application/javascript
+
+Uri: https://sms-activation-service.com/free-numbers-res/css/main.css?v32
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\css\main.css
+Content Type: text/css
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/falgs/at.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\falgs\at.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/falgs/br.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\falgs\br.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/falgs/ca.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\falgs\ca.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/falgs/cn.jpg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\falgs\cn.jpg
+Content Type: image/jpeg
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/falgs/cn.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\falgs\cn.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/falgs/cy.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\falgs\cy.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/falgs/cz.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\falgs\cz.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/falgs/de.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\falgs\de.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/falgs/ee.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\falgs\ee.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/falgs/es.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\falgs\es.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/falgs/fi.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\falgs\fi.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/falgs/fr.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\falgs\fr.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/falgs/gb.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\falgs\gb.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/falgs/id.jpg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\falgs\id.jpg
+Content Type: image/jpeg
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/falgs/id.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\falgs\id.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/falgs/in.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\falgs\in.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/falgs/it.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\falgs\it.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/falgs/jp.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\falgs\jp.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/falgs/kn.jpg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\falgs\kn.jpg
+Content Type: image/jpeg
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/falgs/kr.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\falgs\kr.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/falgs/kz.jpg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\falgs\kz.jpg
+Content Type: image/jpeg
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/falgs/kz.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\falgs\kz.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/falgs/lt.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\falgs\lt.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/falgs/lv.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\falgs\lv.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/falgs/ma.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\falgs\ma.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/falgs/md.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\falgs\md.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/falgs/mn.jpg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\falgs\mn.jpg
+Content Type: image/jpeg
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/falgs/my.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\falgs\my.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/falgs/mz.jpg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\falgs\mz.jpg
+Content Type: image/jpeg
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/falgs/ng.jpg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\falgs\ng.jpg
+Content Type: image/jpeg
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/falgs/nl.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\falgs\nl.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/falgs/ph.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\falgs\ph.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/falgs/pl.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\falgs\pl.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/falgs/pt.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\falgs\pt.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/falgs/ro.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\falgs\ro.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/falgs/ru.jpg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\falgs\ru.jpg
+Content Type: image/jpeg
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/falgs/ru.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\falgs\ru.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/falgs/se.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\falgs\se.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/falgs/th.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\falgs\th.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/falgs/tr.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\falgs\tr.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/falgs/ua.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\falgs\ua.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/falgs/uk.jpg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\falgs\uk.jpg
+Content Type: image/jpeg
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/falgs/um.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\falgs\um.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/falgs/vn.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\falgs\vn.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/icon-call.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\icon-call.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/icon-globe.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\icon-globe.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/icon-key.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\icon-key.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/icon-link.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\icon-link.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/icon-phone.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\icon-phone.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/icon-telegram.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\icon-telegram.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/icon-user.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\icon-user.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/icons/icon-1.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\icons\icon-1.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/icons/icon-2.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\icons\icon-2.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/icons/icon-3.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\icons\icon-3.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/icons/icon-4.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\icons\icon-4.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/icons/icon-5.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\icons\icon-5.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/icons/icon-6.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\icons\icon-6.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/icons/icon-7.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\icons\icon-7.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/logo-icon.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\logo-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/main-image.png
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\main-image.png
+Content Type: image/png
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/pixel.png
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\pixel.png
+Content Type: image/png
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/socials/1.png
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\socials\1.png
+Content Type: image/png
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/socials/10.png
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\socials\10.png
+Content Type: image/png
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/socials/11.png
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\socials\11.png
+Content Type: image/png
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/socials/12.png
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\socials\12.png
+Content Type: image/png
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/socials/13.png
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\socials\13.png
+Content Type: image/png
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/socials/14.png
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\socials\14.png
+Content Type: image/png
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/socials/15.png
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\socials\15.png
+Content Type: image/png
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/socials/2.png
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\socials\2.png
+Content Type: image/png
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/socials/3.png
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\socials\3.png
+Content Type: image/png
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/socials/4.png
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\socials\4.png
+Content Type: image/png
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/socials/5.png
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\socials\5.png
+Content Type: image/png
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/socials/6.png
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\socials\6.png
+Content Type: image/png
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/socials/7.png
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\socials\7.png
+Content Type: image/png
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/socials/8.png
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\socials\8.png
+Content Type: image/png
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/socials/9.png
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\socials\9.png
+Content Type: image/png
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/wallets/iomoney.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\wallets\iomoney.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/wallets/master card.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\wallets\master card.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/wallets/mir.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\wallets\mir.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/wallets/payeer.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\wallets\payeer.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/wallets/qivi.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\wallets\qivi.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/img/wallets/visa.svg
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\img\wallets\visa.svg
+Content Type: image/svg+xml
+
+Uri: https://sms-activation-service.com/free-numbers-res/js/clipboard.min.js
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\js\clipboard.min.js
+Content Type: application/javascript
+
+Uri: https://sms-activation-service.com/free-numbers-res/js/jquery-3.3.1.min.js
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\js\jquery-3.3.1.min.js
+Content Type: application/javascript
+
+Uri: https://sms-activation-service.com/free-numbers-res/js/main.js?v34
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers-res\js\main.js
+Content Type: application/javascript
+
+Uri: https://sms-activation-service.com/free-numbers/
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\free-numbers\index.htm
+Content Type: text/html
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-138576813-2
+File Name: C:\Users\user\Desktop\Загруженные сайты\sms-activation-service.com\gtag\js
+Content Type: application/javascript
+
